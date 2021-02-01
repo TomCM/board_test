@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">My Board 修改 2</router-link> |
+    <router-link to="/">My Board 修改 12</router-link>
     <router-link to="/about">About</router-link>
   </div>
   <router-view/>
